@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit+Singh)](https://git.io/typing-svg)
-<h3>As a passionate software developer, I am driven by an insatiable curiosity and a deep love for the art and science of coding. My journey in the world of software development is marked by a relentless pursuit of excellence, a commitment to innovation, and an unwavering dedication to crafting solutions that transcend expectations.</h3>
+<h3>As a passionate software developer, I am driven by an insatiable curiosity and a deep love for the art and science of coding. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r0hit14&label=Profile%20views&color=0e75b6&style=flat" alt="r0hit14" /> </p>
 
