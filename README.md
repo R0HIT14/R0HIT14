@@ -17,12 +17,6 @@
 
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=R0HIT14&theme=dark&hide_border=false&border_radius=10)](https://git.io/streak-stats) 
-![r0hit14's Stats](https://github-readme-stats.vercel.app/api?username=r0hit14&theme=dark&show_icons=true&hide_border=false&count_private=false)
 ![r0hit14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r0hit14&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
